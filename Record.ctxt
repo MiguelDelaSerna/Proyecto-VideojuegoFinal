@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Record
+comment1.params=
+comment1.target=Record()
+comment2.params=
+comment2.target=void\ prepareRecords()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=name\ totalTime
+comment4.target=Record(java.lang.String,\ long)
+comment5.params=listaJugador
+comment5.target=void\ guardar(java.util.List)
+comment6.params=
+comment6.target=java.util.List\ leer()
+numComments=7
